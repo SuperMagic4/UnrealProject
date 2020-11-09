@@ -1,2 +1,2 @@
-# SchoolProject
-The repository for the School Game Unreal Project
+# Unreal Project
+The repository for an Unreal Project
